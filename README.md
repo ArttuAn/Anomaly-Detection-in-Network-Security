@@ -1,3 +1,4 @@
+```python
 # Import required libraries
 import numpy as np                  # For numerical operations
 import matplotlib.pyplot as plt     # For plotting and visualizations
@@ -26,3 +27,4 @@ df = pd.read_csv("log2.csv")  # Reading the CSV data into a pandas DataFrame
 # Using the trained model for "predictions" / using the model to see to which cluster a given data point belngs to
 
 # Interpreting the results
+```
